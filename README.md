@@ -1,5 +1,8 @@
 # seal-droddel
 
+[![CircleCI](https://circleci.com/gh/sealsystems/seal-droddel.svg?style=svg)](https://circleci.com/gh/sealsystems/seal-droddel)
+[![AppVeyor](https://ci.appveyor.com/api/projects/status/9tmhr4nt442rkvjy?svg=true)](https://ci.appveyor.com/project/Plossys/seal-droddel)
+
 Serialize asynchronous calls.
 
 ## Installation
