@@ -1,6 +1,6 @@
 {
   "name": "seal-droddel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Serialize asynchronous calls",
   "author": {
     "name": "SEAL Systems AG",
