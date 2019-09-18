@@ -4,7 +4,7 @@ const assert = require('assertthat');
 
 const droddel = require('../lib/droddel');
 
-const sleep = function (ms) {
+const sleep = function(ms) {
   return new Promise((resolve) => {
     setTimeout(resolve, ms);
   });
@@ -16,9 +16,11 @@ suite('droddel', () => {
   });
 
   test('throws an error if function is missing', async () => {
-    assert.that(() => {
-      droddel();
-    }).is.throwing('Function is missing');
+    assert
+      .that(() => {
+        droddel();
+      })
+      .is.throwing('Function is missing');
   });
 
   test('calls the given function', async () => {
@@ -43,8 +45,10 @@ suite('droddel', () => {
       throw new Error('gehd ned');
     });
 
-    await assert.that(async () => {
-      await droddelFct();
-    }).is.throwingAsync('gehd ned');
+    await assert
+      .that(async () => {
+        await droddelFct();
+      })
+      .is.throwingAsync('gehd ned');
   });
 });
