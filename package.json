@@ -21,7 +21,7 @@
   "main": "lib/droddel.js",
   "dependencies": {},
   "devDependencies": {
-    "@sealsystems/eslint-config-es": "3.5.3",
+    "@sealsystems/eslint-config-es": "3.5.4",
     "@sealsystems/mocha": "4.1.1",
     "@sealsystems/semantic-release": "4.0.12",
     "nyc": "14.1.1"
