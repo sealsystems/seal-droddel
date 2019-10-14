@@ -1,3 +1,24 @@
+## 2.2.0 (2019-10-14)
+
+### Features
+
+
+#### PLS-431, [PLS-431](https://jira.sealsystems.de/jira/browse/PLS-431) ([9dd704b](https://github.com/sealsystems/node-droddel/commit/9dd704b))
+
+- Removed roboter
+ - Updated ESLint-config
+ - Updated GitHub Pull Request template
+ - Updated appveyor config
+ - Updated CircleCI config
+ - Updated dependencies
+ - Added dependabot
+ - Added `package-lock.json` to git
+ - Fixed linting
+ - Used `seal-node:oss-module-update`
+
+
+---
+
 ## 2.1.0 (2019-09-25)
 
 ### Bug Fixes
