@@ -1,3 +1,14 @@
+## 2.2.1 (2020-03-09)
+
+### Chores
+
+
+#### yoed ([6ebcb02](https://github.com/sealsystems/node-droddel/commit/6ebcb02))
+
+
+
+---
+
 ## 2.2.0 (2019-10-14)
 
 ### Features
