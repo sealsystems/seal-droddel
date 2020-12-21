@@ -1,3 +1,10 @@
+## 2.2.2 (2020-12-21)
+
+### Chores
+
+
+Trigger release ([93a8dca](https://github.com/sealsystems/node-droddel/commit/93a8dca))
+
 ## 2.2.1 (2020-03-09)
 
 ### Chores
