@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/git://github.com/sealsystems/node-droddel.git"
+    "url": "https://github.com/sealsystems/droddel"
   },
   "release": {
     "extends": "@sealsystems/semantic-release/node-module"
