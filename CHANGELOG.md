@@ -1,3 +1,12 @@
+## 2.2.3 (2020-12-26)
+
+### Chores
+
+
+Update build configuration ([ffcdbdd](https://github.com/sealsystems/node-droddel/commit/ffcdbdd))
+
+Update build configuration ([eba1274](https://github.com/sealsystems/node-droddel/commit/eba1274))
+
 ## 2.2.2 (2020-12-21)
 
 ### Chores
