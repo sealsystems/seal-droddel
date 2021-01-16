@@ -1,3 +1,10 @@
+## 2.2.4 (2021-01-16)
+
+### Chores
+
+
+Update build config ([f4cf6be](https://github.com/sealsystems/node-droddel/commit/f4cf6be))
+
 ## 2.2.3 (2020-12-26)
 
 ### Chores
